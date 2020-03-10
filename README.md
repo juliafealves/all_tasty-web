@@ -12,4 +12,4 @@ A ideia do projeto é permitir que o usuário consulte uma lista de receitas ape
 - Exibir as informações da receita selecionada;
 - Compartilhar o link da receita através das redes sociais (Twitter, Facebook e Link)*
 
-* Verificando a viabilidade.
+\* Verificando a viabilidade.
