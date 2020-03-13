@@ -8,9 +8,10 @@ A ideia do projeto é permitir que o usuário consulte uma lista de receitas ape
 
 ## Funcionalidades
 
-- Buscar e listar as receitas por um ou mais ingredientes;
+- Buscar, filtrar e ordenar a lista de receitas por um ou mais ingredientes;
 - Exibir as informações da receita selecionada;
 - Favoritar as receitas;
+- Adicionar comentários na receita;
 - Compartilhar o link da receita através das redes sociais (Twitter, Facebook e Link)*
 
 \* Verificando a viabilidade.
