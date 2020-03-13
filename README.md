@@ -10,6 +10,7 @@ A ideia do projeto é permitir que o usuário consulte uma lista de receitas ape
 
 - Buscar e listar as receitas por um ou mais ingredientes;
 - Exibir as informações da receita selecionada;
+- Favoritar as receitas;
 - Compartilhar o link da receita através das redes sociais (Twitter, Facebook e Link)*
 
 \* Verificando a viabilidade.
